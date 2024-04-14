@@ -24,7 +24,7 @@ console.log('content is', mynewdircontent);
 
 
 let exists = fs.existsSync('mynewdir');
-console.log('exists');
+console.log('existsunfortune');
 
  fs.rmdirSync('mynewdir');
 console.log('deleted');
